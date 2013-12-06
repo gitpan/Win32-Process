@@ -1,5 +1,10 @@
 Revision history for Perl extension Win32::Process.
 
+0.15  Wed Dec 4 2013
+        - Add LICENSE section to the POD (RT #41182).
+	- Fix required perl version 5.6 -> 5.006.
+	- Add Github repo link to META.yml
+
 0.14  Wed Jul 02 2008
 
         - Re-insert "require Win32" statement in Makefile.PL.  There
